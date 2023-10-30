@@ -33,11 +33,11 @@ import { FC, useMemo, useEffect } from "react";
               const userData = useMemo(() => ({
                 name: "Melaku García Bonacho",
                 email: "melakugarciabon@gmail.com",
-                phone: "(123)-456-7890",
-                company: "company",
+                phone: "(+34) 628 690 272",
+                company: "Universidad Politecnica de Madrid",
                 location: "Madrid, Spain",
-                about: "I am a final year student of Web Application Development (DAW) at IES El Lago, and I am currently looking for an opportunity to undertake my professional internship. My education includes two years of studying Software Engineering at the Polytechnic ",
-                skills: ["NodeJs","React","Java","JavaScript","SQL","Nginx","AWS","Docker","Python","PHP","Express.js","CSS"],
+                about: "I am a final year student of Web Application Development (DAW) at IES El Lago, and I am currently looking for an opportunity to undertake my professional internship. My education includes two years of studying Software Engineering at the Polytechnic University of Madrid, which has provided me with a solid foundation in the field of computer science.",
+                skills: ["NodeJs","React","Java","JavaScript","SQL","Nginx","AWS","Docker","Python","PHP","Express.js","HTML","CSS","TailwindCss","Bootstrap"],
                 projects: [{"name":"JavaScript Random","description":"Some random small JS projects like a calculator, a card matching game, a web app to quit smoking...","languages":["JavaScript","HTML","CSS"],"updatedAt":"2022-2023","image":"https://images.codefoli.com/234-projects-image-368","id":"368","slug":"javascript-random"},{"name":"Android Apps","description":"My very first steps on Android development to some more complex apps. ","languages":["Kotlin","Java","Android Studio"],"updatedAt":"2023","image":"https://images.codefoli.com/234-projects-image-369","id":"369","slug":"android-apps"},{"name":"Docker Course","description":"Made Docker course to teach my classmates about containers and deployment.","languages":["Docker","Docker Compose","Kubernetes"],"updatedAt":"2023","image":"https://images.codefoli.com/234-projects-image-370","id":"370","slug":"docker-course"},{"name":"Java Card Game","description":"Classic Spanish card game 7 & Media in Java using  servlets. Appling SOLID and design patterns.","languages":["Java","JSP","Servlets","Bootstrap 5"],"updatedAt":"2023","image":"https://images.codefoli.com/234-projects-image-371","id":"371","slug":"java-card-game"},{"name":"NodeJs Course","description":"NodeJs course i made to teach my classmates this awesome backend technology","languages":["JavaScript","NodeJS","Express","Socket.IO"],"updatedAt":"09/2023","image":"https://images.codefoli.com/234-projects-image-367","id":"367","slug":"nodejs-course"}], 
                 work: [{"id":172,"company":"Freelance","position":"Photographer & Designer","startDate":"2019","endDate":"2022","description":"Photography, video production, editing, retouching, color correction, and graphic design.","orderId":3,"image":"https://images.codefoli.com/234-job-image-upload-172"},{"id":170,"company":"Fnac","position":"Techn Sales Specialist","startDate":"09/22","endDate":"04/23","description":"Conducted sales, customer service, customer retention, and subscription promotion.","orderId":1,"image":"https://images.codefoli.com/234-job-image-upload-170"},{"id":171,"company":"Freelance","position":"Private Tutor","startDate":"2020","endDate":"2022","description":"Mathematics, English, Physics, Chemistry, and Biology to ESO and Bachillerato students.","orderId":2,"image":"https://images.codefoli.com/234-job-image-upload-171"}],
                 role: "USER",
@@ -52,7 +52,7 @@ import { FC, useMemo, useEffect } from "react";
                     () => ({
                       headerOne: "I'm Melaku García Bonacho, a Backend Developer from Madrid, Spain",
                       descriptionOne: "I am a final year student of Web Application Development (DAW) at IES El Lago, and I am currently looking for an opportunity to undertake my professional internship. My education includes two years of studying Software Engineering at the Polytechnic ",
-                      profileImage: "https://images.codefoli.com/234-profile-image",
+                      profileImage: "./src/assets/images/melaku.png",
                       sections: [                        {
                           type: "SKILL",
                           details: {
