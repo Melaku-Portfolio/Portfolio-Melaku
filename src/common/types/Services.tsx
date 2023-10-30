@@ -64,12 +64,12 @@ export const Services = [
                 WEB_DEVELOPMENT: {
                   description:
                     "I offer web development services to create interactive and dynamic websites.",
-                  image: "./src/assets/images/web-dev.jpg",
+                  image: "https://img.icons8.com/cotton/800/code.png",
                 },
                 MOBILE_DEVELOPMENT: {
                   description:
                     "My mobile development services ensure intuitive and feature-rich mobile applications for iOS and Android platforms.",
-                  image: "/src/assets/images/android.jpg",
+                  image: "https://img.icons8.com/cotton/800/uber-mobile-app.png",
                 },
                 DESKTOP_DEVELOPMENT: {
                   description:
@@ -119,7 +119,7 @@ export const Services = [
                 DEVOPS: {
                   description:
                     "Streamline your software development and deployment with my DevOps practices and tools.",
-                  image: "/src/assets/images/devops.png",
+                  image: "https://img.icons8.com/cotton/800/developer.png",
                 },
                 SYSTEMS_INTEGRATION: {
                   description:
@@ -134,7 +134,7 @@ export const Services = [
                 NETWORK_ADMINISTRATION: {
                   description:
                     "Ensure smooth and secure network operations with my network administration services.",
-                  image: "/src/assets/images/network-admin.jpg",
+                  image: "https://img.icons8.com/cotton/800/wifi--v3.png",
                 },
                 PROJECT_MANAGEMENT: {
                   description:
@@ -280,7 +280,7 @@ export const Services = [
                 SOFTWARE_ARCHITECTURE: {
                   description:
                       "I design software architecture that is scalable, maintainable, and aligned with business goals.",
-                  image: "/src/assets/images/Software-Architecture.png",
+                  image: "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/800/external-architecture-3d-printing-flaticons-lineal-color-flat-icons.png",
                 },
                 USER_RESEARCH: {
                   description:
