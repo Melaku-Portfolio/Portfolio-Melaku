@@ -29,7 +29,7 @@ Esto iniciará la aplicación en modo de desarrollo. Abre [http://localhost:3000
 
 ## Sitio desplegado
 
-El sitio web está desplegado en [aquí](melakugb.vercel.app)
+El sitio web está desplegado en [melakugb.vercel.app](https://melakugb.vercel.app/)
 
 ## Créditos
 
@@ -37,4 +37,4 @@ Este diseño se basa en el trabajo original de [Noah Solomon] y su proyecto [Cod
 
 ## Autor
 
-[Melaku Garcia]
+Melaku Garcia
