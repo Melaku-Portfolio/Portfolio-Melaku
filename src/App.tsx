@@ -52,7 +52,7 @@ import { FC, useMemo, useEffect } from "react";
                     () => ({
                       headerOne: "I'm Melaku García Bonacho, a Backend Developer from Madrid, Spain",
                       descriptionOne: "I am a final year student of Web Application Development (DAW) at IES El Lago, and I am currently looking for an opportunity to undertake my professional internship. My education includes two years of studying Software Engineering at the Polytechnic ",
-                      profileImage: "./src/assets/images/melaku.png",
+                      profileImage: "/src/assets/images/melaku.png",
                       sections: [                        {
                           type: "SKILL",
                           details: {

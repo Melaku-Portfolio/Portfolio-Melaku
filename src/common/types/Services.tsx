@@ -69,7 +69,7 @@ export const Services = [
                 MOBILE_DEVELOPMENT: {
                   description:
                     "My mobile development services ensure intuitive and feature-rich mobile applications for iOS and Android platforms.",
-                  image: "./src/assets/images/android.jpg",
+                  image: "/src/assets/images/android.jpg",
                 },
                 DESKTOP_DEVELOPMENT: {
                   description:
@@ -119,7 +119,7 @@ export const Services = [
                 DEVOPS: {
                   description:
                     "Streamline your software development and deployment with my DevOps practices and tools.",
-                  image: "./src/assets/images/devops.png",
+                  image: "/src/assets/images/devops.png",
                 },
                 SYSTEMS_INTEGRATION: {
                   description:
@@ -134,7 +134,7 @@ export const Services = [
                 NETWORK_ADMINISTRATION: {
                   description:
                     "Ensure smooth and secure network operations with my network administration services.",
-                  image: "./src/assets/images/network-admin.jpg",
+                  image: "/src/assets/images/network-admin.jpg",
                 },
                 PROJECT_MANAGEMENT: {
                   description:
@@ -280,7 +280,7 @@ export const Services = [
                 SOFTWARE_ARCHITECTURE: {
                   description:
                       "I design software architecture that is scalable, maintainable, and aligned with business goals.",
-                  image: "./src/assets/images/Software-Architecture.png",
+                  image: "/src/assets/images/Software-Architecture.png",
                 },
                 USER_RESEARCH: {
                   description:
